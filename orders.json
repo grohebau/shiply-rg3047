@@ -1,0 +1,47 @@
+{
+  "DE428152685BG": {
+    "status": "Warten auf Zahlung",
+    "statusClass": "pending",
+    "sender": "Lukas Jensen Nyssen, Quintinsstraße 6, 55131 Mainz, Deutschland",
+    "receiver": "Asen Georgiev Mitrov, ul. Balsha 38, 1408 Sofia, Bulgarien",
+    "price": "10.000,00 €",
+    "description": "Hersteller: BMW<br>Typ: R 1250 RT<br>Fahrgestelnummer: WB10L0107N6F93902<br>Erstzulassung: 23.06.2022<br>KM laut Vorbesitzer: 19.600 km<br>Leistung: 100 kW (136 PS)<br>Hubraum: 1.254 cm³<br>Farbe: Schwarz<br><br>Das Motorrad ist voll funktionsfähig, kein Umfaller oder Unfall.<br>Alle Papiere und Schlüssel sind im Lieferumfang enthalten.",
+    "address": "Asen Georgiev Mitrov<br>ul. Balsha 38<br>1408 Sofia<br>Bulgarien<br>Telefon: +359 87 679 9906 oder +359 87 841 9842",
+    "documents": [
+      {
+        "name": "Lieferschein",
+        "url": "docs/Lieferschein.pdf"
+      },
+      {
+        "name": "Kaufvertrag",
+        "url": "docs/Kaufvertrag.pdf"
+      },
+      {
+        "name": "Rechnung",
+        "url": "docs/Rechnung.pdf"
+      },
+      {
+        "name": "AGB",
+        "url": "docs/AGB.pdf"
+      }
+    ],
+    "orderDate": "24.02.2026",
+    "deliveryDate": "02.03.2026",
+    "pickup": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    },
+    "delivery": {
+      "street": "",
+      "postal_code": "",
+      "city": "",
+      "country": "",
+      "lat": "",
+      "lng": ""
+    }
+  }
+}
